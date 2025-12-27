@@ -1,10 +1,10 @@
-# limit-snek
+# GPN Tron example player
 
 A simple Python bot for playing the GPN Tron game.
 
 ## About
 
-This project contains a bot that connects to a Tron-style snake game server and plays automatically. The bot uses the `GameClient` class to handle communication with the game server.
+This project contains a bot that connects to a Tron game server and plays automatically. The bot uses the `GameClient` class to handle communication with the game server.
 
 ## Links
 
