@@ -4,8 +4,8 @@ import dns.resolver
 
 class GameClient:
     def __init__(self, user, password):
-        self.domain = "7.tcp.eu.ngrok.io"
-        self.port = 12898
+        self.domain = "localhost"
+        self.port = 4000
         self.user = user
         self.password = password
         self.socket = None
